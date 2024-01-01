@@ -1,0 +1,26 @@
+body{
+	background-image: url(bg.jpg);
+	background-size: 40px;
+	color: azure;
+}
+#block_play{
+	position: absolute;
+	left: 20vw;
+	width: 900px;
+	height: 600px;
+	box-shadow:  3px 25px 40px 25px rgba(2, 154, 255, 0.4);;
+}
+
+
+p{
+	font:bold 30px Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+}
+
+#c{
+	font-size: 25vh;
+	color: red;
+}
+
+
+
